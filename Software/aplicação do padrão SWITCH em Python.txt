@@ -1,0 +1,11 @@
+def switch_dia (mes):
+    meses = {
+        "janeiro": "Inicio do ano",
+        "julho": "Meio do ano",
+        "dezembro": "Fim do ano"
+    }
+    return meses.get(mes.lower(),"Mes invalido")
+Mes_usuario="dezembro"
+print(f"O Mes é {Mes_usuario}:{switch_dia(Mes_usuario)}")
+
+Julia@2007

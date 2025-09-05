@@ -1,0 +1,17 @@
+def interpretar_letra(letra):
+    vogais = 'aeiou'
+    
+    if len(letra) != 1 or not letra.isalpha():
+        return "Entrada inválida. Digite apenas uma letra do alfabeto."
+    
+    letra = letra.lower()
+    if letra in vogais:
+        return f"A letra '{letra}' é uma vogal."
+    else:
+        return f"A letra '{letra}' é uma consoante."
+
+# Programa principal
+print("Interpretador de Letras do Alfabeto")
+letra = input("Digite uma letra: ")
+resultado = interpretar_letra(letra)
+print(resultado)
