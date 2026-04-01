@@ -1,4 +1,4 @@
-# 🎀 Projeto.py-2025 | Meu Cantinho de Desenvolvimento
+# 🐍 Projeto.py-2025 | Meu Cantinho de Desenvolvimento
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ensino%20Médio-Técnico%20%E2%9C%A8-F78DA7?style=for-the-badge&labelColor=30363d" alt="Ensino Médio Técnico">
