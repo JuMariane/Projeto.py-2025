@@ -26,21 +26,21 @@ Aqui eu organizo com muito carinho todos os softwares, scripts e desafios que de
 
 Organizei meus projetos por categorias para ficar bem fofinho e fácil de achar:
 
-### 💰 Finanças e Simuladores (Meu Dinheirinho)
+### 💰 Finanças e Simuladores 
 * **Financiamento simulador bonitão.py:** Simulador de financiamento com uma interface mais charmosa.
 * **Financiamento.py:** Lógica base para cálculos de parcelas e juros.
 
-### 🎮 Jogos e Lógica (Meus Desafios)
+### 🎮 Jogos e Lógica 
 * **Jogo da velha.txt:** Protótipo/Lógica para o clássico Jogo da Velha.
 * **Animal.py:** Script focado em lógica de classes ou objetos.
 
-### 🛠️ Ferramentas e Automações (Minhas Facilidades)
+### 🛠️ Ferramentas e Automações 
 * **import requests.py:** 🌐 Conexão com o mundo! Consumo de APIs e requisições HTTP.
 * **Rastreamento.py:** Localização ou acompanhamento de dados.
 * **Manipulação de Arquivos.py:** Exercícios de leitura e escrita de dados (I/O).
 * **Interpretador_letras.py.txt:** Análise e processamento de strings.
 
-### 📊 Exercícios de Lógica Escolar (Meus Estudos)
+### 📊 Exercícios de Lógica Escolar
 * **Mídia de 3 notas.py:** Cálculo de média aritmética estudantil.
 * **Verificação par e impar.py / Positiva,negativa,zero.py:** Validação de dados e condicionais.
 * **Aplicação do padrão SWITCH em Python.txt:** Estudo de estruturas de decisão.
